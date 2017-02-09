@@ -128,6 +128,17 @@ ul.skills {
   background: #6b9bea;
 }
 
+h3 {
+  margin-top: 50px;
+}
+
+.hobbies {
+	list-style: none;
+	line-height: 25px;
+	padding-left: 0;
+	maragin-top: 0;
+}
+
 /*gallery page styles*/
 
 
